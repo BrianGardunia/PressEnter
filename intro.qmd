@@ -1,0 +1,35 @@
+# Introduction
+
+How do you find a book that isn't lost, but half forgotten? I remember reading it. I swear I found it in the Boise Library where they had a shelf of popular books on the first floor near the check out desks. I can see the cover in my mind. It had an old computer terminal with letters in green and an old computer terminal font. In my memory, it said "Press enter. . ." But that can't be the title, or else I could have found it. I don't remember the author's name. I don't remember the character's names.
+
+My memory is not trustworthy though. I recently retold a story from that time to a friend that I remembered about his father losing his job and not telling anyone in the family. In my memory he went to the park or the library while he was looking for work, while spending down his savings and pretending that all was well. He was caught in the lie in my retelling of the story and the loss of their savings precipitated their move to Denver. My friend laughed and said that sounds like something his father would do, but that didn't remember anything like that happening to them. Which of us is remembering wrong? I am assuming me. My own memory is full of holes and stories that have taken on a life independent of the truth.
+
+The internet seems to have all of the information you could ever want. Wikipedia is a better encyclopedia than the World Book Encyclopedia that my mom bought from a travelling salesman. With Google I can find which restaurant has banh mi near Pikes Place Market and Amazon will send me the cord I have lost to charge my headphones in a day. But, I can't find the book. I wrote about it once on my blog. I asked Reddit and Twitter and Facebook. No one seems to remember it like I do. Maybe in some forgotten database there is my library history from 1992 with the true title and author hidden in the list of sci fi books that I checked out. Maybe I just read it while I procrastinated doing my homework or waited for the bus? I don't remember having the book at home or other places. Just there in the library.
+
+I think of the book and its story at the most random times. There are moments that seem as real as my own memories, embedded in the times I have tried to find the book or debated making up my own. I remember the book being good enough that I would think other people would have read and remembered it.
+
+The story is a fantastical one, not a profound book or a great one. If one day this finds its way to the original author, don't take my description as criticism, only that it wasn't something inspirational or intending to be the great American novel. It was just a fun story. It assumes the reader accepts the sci fi and fantastical elements of the story without too much of a skeptical eye.
+
+It had an astronaut that comes back from a long and lonely trip to find Earth empty and abandoned. The people appear to have disappeared in an instance but without obvious violence. There are no bodies, just a mystery. He walks through the empty cities to find a broadcasted radio signal. The source of the signal is a library or an office. Inside the power is on, the transmitter on repeat with a simple message - Press Enter. The computer screen is waiting for someone to push the button.
+
+Nothing happens when he pushes the button, except the story within the book. It is a flashback to the beginnings of the story to the protagonist - a young boy that has bad dreams. He dreams of a beautiful woman floating in space outside a broken colony ship. The stars are bright and too close to be real. Space feels cold and she talks to him in his dreams. He writes about his dreams on a 1990's imagined version of an internet message board and obsesses about her being cold and alone in space. His obsession starts to interfere with his life and all he talks about is his beautiful girl floating alive in vacuum of space.
+
+His worried mother seeks treatment for his obsession as it becomes a mental illness. The treatment is an experimental drug that was used to help soldiers with PTSD forget and recover. He seems to forget and goes back to his normal life, but he is wounded and sad.
+
+This starts him on a path that ends with him becoming the reason why the Earth is empty and the astronaut is reading this story with us. The astronaut has a choice and a job to do that requires him to believe and act on the fantastical story to bring everyone back. It is a New Agey magic mixed with sci fi elements.
+
+I remember moments from this story with great detail, but large chunks are missing. I would love to read this book again. Maybe I would be disappointed, that it required too much suspension of disbelief or that the characters weren't likable. Maybe the story has leaps of logic or tedious bits that I skimmed over. But, since I can't find it and I have the framework of the plot in my mind still after 30 years, I plan to write what I remember of the book instead of randomly searching Google for it.
+
+Is this fan fiction? Kind of, but a fan fiction for a story that only I remember. A book for a fan base of one - me. It is more of a retelling I guess.
+
+Is this plagiarism? I hope not. I doubt it could be proven to be since I don't have the book in front of me and if I did I wouldn't be trying to write it myself. The names and details are all my own. The arc of the story might not even match the book, if it exists. It is the best that I can do to write the book that I think I might have read on a day at the library when my friend's father probably wasn't there pretending to go to work at a job that he didn't have because that memory doesn't check out. It didn't happen and since I can't trust my life to be real, I guess that means that maybe this book is one that I invented all by myself.
+
+If as I write or if this is published and you are reading this thinking - this sounds awfully familiar and you know the book - please send me the actual author and title. If you are the author, my apologies for butchering your book as I remember it. I hope you see this as the praise I mean it to be.
+
+#Update
+
+I posted this on Facebook and four people immediately found the original book.  Apparently it was titled Portal and was written as a companion to a 1980s video game.  The plot follows closely what I remember.  I haven't checked it out or purchased it intentionally at this point.  Decision needed whether I will write it anyway for a fun exercize and chance to be sued by a publisher.  kidding.  Kind of. 
+
+It was surprising how fast the chatgpt algorithm found this book.  
+
+Decision for now is that I will continue to write.  I will try to write everytime that I am travelling so that I knock out the book and I will publish it to github and also on the quarto blog that I signed up for. . . and then forgot the login. I will figure that out. 
